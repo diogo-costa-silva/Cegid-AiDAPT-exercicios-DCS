@@ -2,14 +2,6 @@
 
 Repositorio com exercicios de SQL do programa **AiDAPT** da [Cegid Academy](https://www.cegid.com/pt/cegid-academy/).
 
-## Programa AiDAPT
-
-Formacao em **Data Analytics e Business Intelligence** com foco em:
-- SQL Server
-- Power BI
-- Python / R (futuro)
-
-**Formador**: Joao Lauro De Marco
 
 ## Estrutura do Repositorio
 
@@ -40,7 +32,3 @@ As queries foram testadas em:
 ## Autor
 
 **Diogo Silva** - Formando AiDAPT 2025/2026
-
----
-
-*Repositorio criado para partilha e discussao com o formador.*
